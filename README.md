@@ -2,6 +2,8 @@
  
 This Regex tutorial has been created to provide the reader with a better understanding of what a regex is, how it works, and how it can be used to validate user input.
 
+Deployment site - https://amattock.github.io/REGEX/
+
 ## Summary
 
 A regex (short for regular expression), is a sequence of characters that outlines a specific search pattern or criteria. When a regex is included in code or search algorithms, it can be used to find certain patterns of characters contained within a string, find and replace a character or sequence of characters within a string, or, validate an input.
